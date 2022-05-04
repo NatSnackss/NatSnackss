@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NatSnackss
 - 👀 I’m interested in Front End/Full Stack & Embedded Software
 - 🌱 I’m currently learning Python, HTML & CSS
-- 💞️ I’m looking to collaborate on nothing yet! Just starting!
+- 💞️ I’m looking to collaborate on - nothing yet I'm just starting
 - 📫 How to reach me - via email nrice8025@gmail.com
 
 <!---
